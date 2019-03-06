@@ -1,0 +1,27 @@
+Error:
+"" is a not valid command.
+Please select "spotify-this-song."
+
+
+Spotify This Song
+------------------------------------------------------------
+
+Artists      : Harry Styles
+Album        : Harry Styles
+Track        : Sign of the Times
+Preview link : https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=dff65d4f80114ed2b4e77a347ad259c6
+
+------------------------------------------------------------
+
+
+Spotify This Song
+------------------------------------------------------------
+
+Artists      : brandUn DeShay, Tyler, The Creator, Casey Veggies
+Album        : Volume: One! For The Money
+Track        : Odd Octubree
+Preview link : https://p.scdn.co/mp3-preview/46efc792714b996d515d3718995b49b863435be5?cid=dff65d4f80114ed2b4e77a347ad259c6
+
+------------------------------------------------------------
+
+

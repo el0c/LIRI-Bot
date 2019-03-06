@@ -1,9 +1,12 @@
 // --------------------------------------------
 // |  Configure APIs and any respective keys  |
 // --------------------------------------------
-require("dotnev").config();
+require("dotenv").config();
 
 var keys = require("./keys.js");
+
+const Spotify = require("node-spotify-api");
+const spotify = new Spotify(keys.spotify);
 
 // File System
 const fs      = require("fs");
