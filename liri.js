@@ -9,7 +9,7 @@ const Spotify = require("node-spotify-api");
 const spotify = new Spotify(keys.spotify);
 
 // File System
-const fs      = require("fs");
+const fs = require("fs");
 
 // Operating System (for end-of-line)
 const os = require("os");
@@ -108,14 +108,3 @@ function saveOutput(output) {
         }
     });
 }
-
-
-// ------------------------------
-// |                            |
-// ------------------------------
-
-
-// ------------------------------
-// |                            |
-// ------------------------------
-
